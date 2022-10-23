@@ -1,12 +1,5 @@
 <h1 align="center">Food order API</h1>
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo for Food order API
-    </a>
-  </h3>
-</div>
 
 ## Table of Contents
 
