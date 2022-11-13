@@ -20,9 +20,9 @@
 <div align="center">
    <img src="https://github.com/Damyanmd/food-order-app/blob/main/img/front%20page.PNG">
    <p>This is the page when the user enters</p>
-   <img src="https://github.com/Damyanmd/food-order-app/blob/main/img/ordered%20meals.PNG>
+   <img src="https://github.com/Damyanmd/food-order-app/blob/main/img/ordered%20meals.PNG">
    <p>Items selected</p>
-   <img src="https://github.com/Damyanmd/food-order-app/blob/main/img/order%20information.PNG>
+   <img src="https://github.com/Damyanmd/food-order-app/blob/main/img/order%20information.PNG">
    <p>Order information</p>
 </div>
  
