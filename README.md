@@ -1,12 +1,5 @@
 <h1 align="center">Food order API</h1>
 
-<div align="center">
-  <h3>
-    <a href="https://{your-demo-link.your-domain}">
-      Demo for Food order API
-    </a>
-  </h3>
-</div>
 
 ## Table of Contents
 
@@ -17,9 +10,9 @@
 ## Overview
 
 <div align="center">
-   <img src="https://github.com/Damyanmd/goal_api/blob/main/img/Capture.PNG">
+   <img src="https://github.com/Damyanmd/food-order-app/blob/main/img/front%20page.PNG">
    <p>This is the page when the user enters</p>
-   <img src="https://github.com/Damyanmd/goal_api/blob/main/img/Capture.PNG">
+   <img src="https://github.com/Damyanmd/food-order-app/blob/main/img/ordered%20meals.PNG">
    <p>Items selected</p>
 </div>
  
